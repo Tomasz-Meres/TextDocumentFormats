@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transportList>
+	<transport type="car" fuel="gasoline">
+		<brand>Fiat</brand>
+		<model>Punto</model>
+		<year>2002</year>
+		<hp>80</hp>
+	</transport>
+	<transport type="bus" fuel="diesel">
+		<operator>MK Trans</operator>
+		<capacity>24</capacity>
+		<year>2019</year>
+		<route>13</route>
+	</transport>
+	<transport type="airplane" fuel="jet fuel">
+		<brand>Boeing</brand>
+		<model>737-300</model>
+		<year>2020</year>
+		<passengerCapacity>210</passengerCapacity>
+	</transport>
+</transportList>
