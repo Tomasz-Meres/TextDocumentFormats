@@ -1,0 +1,10 @@
+{
+    "date": "27.11.2024",
+    "departure": "18.51",
+    "departure_station": "Kraków Główny",
+    "arrival_station": "Warszawa Centralna",
+    "trip length": "3h 48min",
+    "price": 70,
+    "is_round_trip": false
+    
+}
