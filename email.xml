@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+	<sender>
+		<name>William Somerset</name>
+		<emailAddress>williamsomerset@gmail.com</emailAddress>
+	</sender>
+	<recipent>
+		<name>David Mills</name>
+		<emailAddress>davidmills@gmail.com</emailAddress>
+	</recipent>
+	<subject>Meeting</subject>
+	<message>We need to talk about our investigation</message>
+</email>
